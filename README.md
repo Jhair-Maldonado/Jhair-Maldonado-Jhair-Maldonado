@@ -9,4 +9,4 @@ Perfil profesional
 </p>
 
 ### Estadísticas de Lenguajes
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhair-Maldonado&layout=compact&theme=radical)
