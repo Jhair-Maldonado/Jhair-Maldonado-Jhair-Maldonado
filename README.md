@@ -28,13 +28,3 @@ Aquí las tecnologías con las que doy vida a mis proyectos:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
-
-#### **Tools & Environments**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="workbench" width="40" height="40"/>
-</p>
-
----
-
-### 📊 Stats
-![Jhair's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide=html,css)
